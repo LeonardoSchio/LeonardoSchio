@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**LeonardoSchio/LeonardoSchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width=100% botton=50px src="https://github.com/LeonardoSchio/LeonardoSchio/assets/169609469/ce42132d-3e5e-4a84-aecd-bb20c1926957"/>
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32479A&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1!+Me+chamo+Leonardo+Schio!!!)](https://git.io/typing-svg)
+
+<br>
+<br>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leonardo%20Schio&theme=github-dark-blue&hide_border=falso)](https://git.io/streak-stats)
+
+</div>
