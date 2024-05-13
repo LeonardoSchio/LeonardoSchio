@@ -1,6 +1,6 @@
 <div align="center">
   
-## Olá! Me chamo Leonardo Schio 👋
+## Olá! Sou o Leonardo Schio 👋
 
 <div align="center">
 
